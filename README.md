@@ -8,7 +8,7 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
   </h1>
-</div>
+</div> 
 
 ## Descripción
 Desafío en donde se aplican conocimientos en Java, Spring y Base de Datos. LiterAlura es una aplicación de consola que permite a los usuarios registrar libros en una base de datos y obtener información sobre los libros ya registrados y sus autores. 
